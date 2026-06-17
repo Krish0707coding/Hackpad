@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Footprints")(type "KiCad")(uri "/Users/krishshah/Documents/pcb")(options "")(descr ""))
+  (lib (name "rotoary encoder")(type "KiCad")(uri "/Users/krishshah/Downloads/Rotary_Encoder.pretty")(options "")(descr ""))
+)
